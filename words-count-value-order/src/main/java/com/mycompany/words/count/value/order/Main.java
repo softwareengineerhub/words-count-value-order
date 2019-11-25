@@ -20,6 +20,7 @@ public class Main {
     public static void main(String[] args) {
         WordProcessor wordProcessor = new WordProcessorImpl();
         wordProcessor.process("a b a b a b c a c a");
+        Branch1 b1 = new Branch1();
     }
     
 }
