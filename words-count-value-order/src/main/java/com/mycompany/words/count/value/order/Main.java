@@ -22,6 +22,7 @@ public class Main {
         wordProcessor.process("a b a b a b c a c a");
         Branch1 b1 = new Branch1();
         Branch2 b2 = new Branch2();
+        TaskB taskB = new TaskB();        
     }
     
 }
